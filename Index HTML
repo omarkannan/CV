@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Omar Alkannan | CV</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="container" id="cv">
+
+<header>
+<h1>Omar Mohammed Ahmed Alkannan</h1>
+<p>Network & Telecommunications Engineer</p>
+
+<div class="contact">
+<p>📍 Abu Dhabi, UAE</p>
+<p>📧 omarkannan666@gmail.com</p>
+<p>📞 +971 56 432 8279</p>
+</div>
+
+<button onclick="downloadCV()">Download CV</button>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>
+Network and Telecommunications Engineering graduate passionate about
+network infrastructure, IT systems, and telecommunications technologies.
+Focused on building reliable networks and solving technical problems.
+</p>
+</section>
+
+<section>
+<h2>Technical Skills</h2>
+
+<h3>Networking</h3>
+<ul>
+<li>TCP/IP Networking</li>
+<li>LAN / WAN Architecture</li>
+<li>Routing & Switching</li>
+<li>Network Troubleshooting</li>
+<li>Network Security Fundamentals</li>
+</ul>
+
+<h3>IT Systems</h3>
+<ul>
+<li>Computer Hardware Support</li>
+<li>Operating Systems Fundamentals</li>
+<li>System Troubleshooting</li>
+</ul>
+
+</section>
+
+<section>
+<h2>Education</h2>
+
+<p><strong>Bachelor of Science (Honours)</strong></p>
+<p>Network and Telecommunication Engineering</p>
+<p>Sudan International University</p>
+<p>Graduated: 2024</p>
+
+</section>
+
+<section>
+<h2>Projects</h2>
+
+<ul>
+<li>Enterprise Network Design (Simulation)</li>
+<li>IT Troubleshooting Toolkit</li>
+<li>Telecommunication Infrastructure Study</li>
+</ul>
+
+</section>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
